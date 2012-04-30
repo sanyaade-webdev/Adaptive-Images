@@ -25,7 +25,7 @@ You should provide a default source for this tag (you can provide a media query 
 
 Finally if you wish to provide a fallback for browsers without javascript then insert a standard img like you would normally bellow the alternative sources:
 
-<img:adaptive src="Low-Res.png" media = "only screen and (max-width: 820px)">
+	<img:adaptive src="Low-Res.png" media = "only screen and (max-width: 820px)">
 		<source src="High-Res.png" media = "only screen and (min-width: 1100px)"/>
 		<img src="Fallback.png"/>
 	</img:adaptive>
