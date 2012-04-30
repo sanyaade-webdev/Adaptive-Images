@@ -6,7 +6,7 @@ Adaptive Image JS (jQuery Plugin)
 WHY SHOULD I USE THIS?
 ---------------------------------------------
 
-Responsive layouts are the new and big thing in web design, when a website is designed to be responsive it can dynamically resize itself to fit on a mobile phone using new techniques available in CSS3. The video and audio tags can also similarly be written in html to load different sized ad quality content depending on the screen size and device. However the img has still not been updated, so mobiles are still forced to download full desktop sized resolution images, the images simply cannot adapt as it isn't part of the HTML Spec yet. Whilst there are proposals for this to happen, no browser implements it and most current solutions rely on a backend server. Adaptive Image JS provides a simple easy to use library with a fallback for browsers without Javascript.
+Responsive layouts are the new and big thing in web design, when a website is designed to be responsive it can dynamically resize itself to fit on a mobile phone using new techniques available in CSS3, meaning a truly one site fits all experience. The video and audio tags can also similarly be written in html to load different sized and quality content depending on the screen size and device. However the img has still not been updated, so mobiles are still forced to download full desktop sized resolution images, the images simply cannot adapt as it isn't part of the HTML Spec yet. Whilst there are proposals for this to happen, no browser implements it and most current solutions rely on a backend server. Adaptive Image JS provides a simple easy to use library with a fallback for browsers without Javascript.
 
 HOW TO USE ADAPTIVE IMAGE JS
 --------------------------------------------------
