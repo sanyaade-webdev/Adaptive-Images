@@ -40,7 +40,7 @@ Limitations
 ---------
 
 The script only supports the Media Queries max-width, min-width in px units combined with the keyword 'and' ('or' is not supported).</li>
-	<li>Although you can mix media types with and without a Media Query in one stylesheet (i.e.: media="only screen and (max-width: 480px), handheld") or multiple media types with one or more media queries (i.e.: media="only screen and (min-width: 1025px) and (max-width: 1600px), only projection and (min-width: 1025px) and (max-width: 1600px)"), you can not use multiple media types with multiple different Media Queries (i.e.: media="only screen and (min-width: 1025px), only projection and (min-width: 1200px)" &lt;- this will fail). To achieve this you have to add another image.
+	<li>Although you can mix media types with and without a Media Query in one stylesheet (i.e.: media="only screen and (max-width: 480px), handheld") or multiple media types with one or more media queries (i.e.: media="only screen and (min-width: 1025px) and (max-width: 1600px), only projection and (min-width: 1025px) and (max-width: 1600px)"), you can not use multiple media types with multiple different Media Queries (i.e.: media="only screen and (min-width: 1025px), only projection and (min-width: 1200px)" &lt;- this will fail). To achieve this you have to add another image source.
 
 Demo
 ____
