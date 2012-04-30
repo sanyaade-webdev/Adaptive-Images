@@ -1,0 +1,15 @@
+<!doctype >
+<html>
+<head>
+	<script src="jquery-1.7.2.js"></script>
+	<script src="adaptiveimg.js"></script>
+</head>
+<body>
+	<h1>Adaptive Images</h1>
+	<img:adaptive src="Low-Res.png" media = "only screen and (max-width: 820px)">
+		<source src="High-Res.png" media = "only screen and (min-width: 1100px)"/>
+		<img src="Fallback.png"/>
+	</img:adaptive>
+	<script src="adaptiveimg.js"></script>
+</body>
+</html>
